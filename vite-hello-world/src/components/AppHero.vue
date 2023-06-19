@@ -5,9 +5,9 @@
 <template>
 
     <div>
-        <h1>"La mia prima app con Vite!"</h1>
+        <img src="https://picsum.photos/1000/500" alt="img">
     </div>
-    
+
 </template>
 
 <style>
